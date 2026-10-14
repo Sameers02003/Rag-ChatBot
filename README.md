@@ -2,7 +2,7 @@
 
 Upload a PDF and ask questions about it. The chatbot answers **only from your document** and shows the sources it used.
 
-🔗 **Live app:** _add your Streamlit link here after deployment_
+🔗 **Live app:** 
 
 ## ✨ Features
 - 📤 Upload one or more PDFs in the app (no document is hard-coded)
